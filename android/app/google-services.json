@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384596379708",
+    "project_id": "lamapp-8a36d",
+    "storage_bucket": "lamapp-8a36d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384596379708:android:9a1e44eaef2e0fe6cc5b39",
+        "android_client_info": {
+          "package_name": "com.example.lamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VCnIFDA3p5wC6JPicYcehDo3Rm79TSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
